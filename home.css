@@ -1,0 +1,624 @@
+
+.navbar-nav > .active > a:hover { 
+    color: #00bcd4!important ; 
+}
+
+
+.navbar .navbar-toggler {
+    border-color: #fff;
+    background-color: #fff;
+    height: 36px;
+    outline: none;
+    border-radius: 0px;
+    position: absolute;
+    right: 30px;
+    top: 10px;
+}
+
+.navbar{
+	border-bottom: 1px solid rgba(250,250,250,0.30);
+}
+
+
+.bgimg{
+	height: 100%;
+	width: 100%;
+	background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-simple-technology-business-line-image_22765.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+
+}
+
+.navbar{
+	height: 10%;
+	width: 100%;
+}
+
+
+#brand{
+	font-size: 1.5em;
+	color: white;
+	font-weight: bold;
+	margin-left: 6%;
+}
+
+.bb1{
+	padding-top: 6%;
+}
+
+#front{
+	margin-top: 15%;
+	text-align: center;
+	color: white;
+}
+
+.btn1{
+	color: white;
+	border: 2px solid white;
+	background: transparent;
+}
+.btn2{
+	background-color: #00BCD4;
+	border: 2px solid #00BCD4;
+	color: white;
+}
+#search{
+	width: 40%;
+	margin-left: 25%;
+	padding: 2%;
+	background: transparent;
+	color: white;
+
+}
+
+.btn3{
+	background-color: #00BCD4;
+	border: 1px solid #00BCD4;
+	color: white;
+	margin-left: 1.5%;
+	padding: 5% 0% 5% 0%;
+}
+
+#check{
+	margin-top: 3%;
+	margin-bottom: 9%; 
+}
+.check{
+	margin: 0% 2%;
+}
+.logo img{
+
+	margin-top: 15%;
+}
+.center{
+	text-align: center;
+}
+.center h6{
+	font-weight: bold;
+}
+.list-group a{
+	margin-bottom: 5%;
+}
+.foot{
+
+	padding-bottom: 5%;
+
+}
+.footer{
+	width: 100%;
+	height: 100%;
+	background-image: url("https://image.freepik.com/free-vector/abstract-realistic-technology-particle-background_23-2148429738.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	padding: 5% 5% 3% 5%;
+}
+
+.footer a{
+	color: white;
+	font-size: 90%;
+}
+.footer h4{
+	margin-bottom: 8%;
+	font-weight: bold;
+}
+
+.b{
+	font-weight: bold;
+}
+.center p{
+	margin-top: 5%;
+}
+
+.bt{
+	border-top: 1px solid white;
+}
+.para{
+	padding: 10% 0%;
+}
+.fc{
+	font-weight: bold;
+	color: #00BCD4;
+}
+
+.b{
+	font-weight: bold;
+	margin-bottom: 2%;
+}
+
+.fafa i{
+	background-color: #00BCD4;
+	border: 1px solid #00BCD4;
+	padding: 10%;
+	border-radius: 50%;
+	color: white;
+}
+
+.mxx{
+	margin: 1% 20% 6% 20%;
+}
+
+.bgc{
+	background-color: #00BCD4;
+	font-weight: bold;
+	color: white;
+}
+
+.bgc h6{
+	font-size: 200%;
+}
+
+.bgt{
+	background: rgb(114,2,187);
+	background: linear-gradient(145deg, rgba(114,2,187,1) 0%, rgba(50,100,245,1) 100%);
+	font-weight: bold;
+	color: white;
+}
+
+.bgt h6{
+	font-size: 200%;
+}
+.bgimg1{
+	min-height: 500px;
+	width: 100%;
+	background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-simple-technology-business-line-image_22765.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+
+.list1{
+	margin-bottom: 20%;
+}
+.list1 ul{
+	list-style-type: none;
+}
+.list1 i{
+	color: #491bb1;
+}
+.bb{
+	text-align: center;
+	font-stretch: bold;
+	color: #00BCD4;
+}
+
+.btn4{
+	position: relative;
+	clear: both;
+	top: 20px;
+}
+
+.btn4 button{
+	padding: 4% 5% 4% 5%;
+	border: none;
+	background-color: #00BCD4;
+	color: white;
+}
+
+
+
+.btn5{
+	position: relative;
+	clear: both;
+	top: 20px;
+}
+
+.btn5 button{
+	padding: 4% 5% 4% 5%;
+	background: rgb(114,2,187);
+	background: linear-gradient(145deg, rgba(114,2,187,1) 0%, rgba(50,100,245,1) 100%);
+	color: white;
+	border: none;
+}
+
+
+.fafa2 i{
+	padding: 2%;
+	border-radius: 50%;
+	color: white;
+	background: linear-gradient(145deg, rgba(50, 100, 245, 1) 0%, rgba(114, 2, 187, 1) 100%);
+	margin-bottom: 5%;
+}
+
+.author h5{
+	font-stretch: bold;
+}
+
+/* Slideshow container */
+.slideshow-container {
+  position: relative;
+background-color: #e9ecef;
+}
+
+/* Slides */
+.mySlides {
+  display: none;
+  padding: 80px;
+  text-align: center;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -30px;
+  padding: 16px;
+  color: #888;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  position: absolute;
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+  color: white;
+}
+
+/* The dot/bullet/indicator container */
+.dot-container {
+	position: relative;
+    text-align: center;
+	background-color: #e9ecef;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+	position: relative;
+  cursor: pointer;
+  height: 10px;
+  width: 10px;
+  margin: 0 2px;
+  background-color: #00BCD4;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+
+/* Add an italic font style to all quotes */
+q {font-style: italic;}
+
+/* Add a blue color to the author */
+
+.jumbo{
+	   background-color: #e9ecef;
+	   padding: 5% 0%;
+}
+
+.role{
+	color: #00BCD4;
+}
+
+.fs p{
+	font-size: 14px;
+	line-height: 25px;
+}
+
+.mt1{
+	margin-top: 10%;
+}
+.fixed1{
+	padding: 5%;
+	border: 15px solid white;
+	border-radius: 5%;
+}
+
+.footer a:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.background-image-pricing {
+background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-simple-technology-business-line-image_22765.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+min-height: 500px;
+position: absolute;
+width: 100%;
+}
+
+section input[type=checkbox] {
+    width: 18px;
+    min-width: 18px;
+    height: 18px;
+    background-color: transparent;
+    border: 1px solid #fff;
+    outline: none;
+    cursor: pointer;
+}
+.pricing-section .section-heading {
+text-align: center;
+margin-top: 80px;
+}
+
+.section-heading {
+margin-bottom: 80px;
+}
+
+
+.section-heading h2 {
+color: white;
+font-size: 32px;
+font-weight: 700;
+letter-spacing: 0.5px;
+margin-top: 10px;
+margin-bottom: 15px;
+}
+
+.pricing-item{
+	margin-bottom: 10%;
+}
+
+.pricing-item ul {
+padding: 0;
+margin: 0;
+list-style: none;
+text-align: left;
+}
+
+.pricing-item ul li {
+display: inline-block;
+margin-bottom: 20px;
+font-size: 16px;
+color: #6a6a6a;
+}
+
+.gradi{
+	background: linear-gradient(145deg, rgba(114,2,187,1) 0%, rgba(50,100,245,1) 100%);
+}
+
+.pricing-item a.main-button,
+.pricing-item a.gradient-button {
+position: absolute;
+left: 50%;
+transform: translateX(-50%);
+bottom: -20px;
+}
+
+a.main-button {
+display: inline-block;
+height: 50px;
+line-height: 50px;
+padding: 0px 25px;
+border: none;
+background-color: #00bcd4;
+color: #fff;
+text-transform: uppercase;
+font-size: 15px;
+font-weight: 600;
+}
+
+a.gradient-button {
+display: inline-block;
+height: 50px;
+line-height: 50px;
+padding: 0px 25px;
+border: none;
+background: linear-gradient(145deg, rgba(50, 100, 245, 1) 0%, rgba(114, 2, 187, 1) 100%);
+color: #fff;
+text-transform: uppercase;
+font-size: 15px;
+font-weight: 600;
+}
+
+.pricing-section .section-heading p {
+color: #fff;
+}
+
+.pricing-item {
+background-color: #fff;
+text-align: center;
+padding: 50px 50px 30px 50px;
+position: relative;
+box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.price h6{
+	font-size: 32px;
+    color: #fff;
+    font-weight: 900;
+    letter-spacing: 0.5px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.price span{
+	display: inline-block;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.pricing-item h4{
+	text-transform: uppercase;
+    font-size: 17px;
+    font-weight: 700;
+    color: #1e1e1e;
+    letter-spacing: 0.5px;
+    margin-bottom: 45px;
+}
+
+.pricing-item .price {
+background-color: #00bcd4;
+width: 100%;
+padding: 30px 0px;
+margin-bottom: 35px;
+}
+
+.dev {
+width: 100%;
+height: 3px;
+background-color: #eee;
+margin: 35px 0px 30px 0px;
+}
+
+.feature-section .feature-item {
+box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+border-radius: 5px;
+padding: 30px;
+margin-bottom: 30px;
+}
+
+.feature-section .feature-item .icon {
+float: left;
+margin-top: 14px;
+}
+
+.feature-section .feature-item p {
+margin-left: 106px;
+}
+
+.feature-section .feature-item h4 {
+font-size: 18px;
+color: #1e1e1e;
+letter-spacing: 0.5px;
+font-weight: 700;
+}
+
+
+/* Crousel Image COnfiguration */
+
+.item img{
+	padding: 15%;
+}
+
+
+/* navbar background change */
+
+.bg-light {
+background-color: rgba(255, 0, 0, 0)!important;
+padding-top: 20px;
+transition: 500ms;
+}
+
+.bg-light.scrolled{
+background: white !important;
+
+}
+.nav-item.navbar.scrolled{
+	background: white;
+}
+.navbar-light .navbar-nav .nav-link {
+color: white;
+}
+
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand {
+color: white;
+}
+
+
+.navbar-light .navbar-nav .nav-link.scroll {
+color: black !important;
+background-color: white !important;
+text-align: center;
+}
+
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand.sc {
+color: black !important;
+}
+
+.navbar.scrolled{
+
+background: white;
+
+}
+
+.navbar.scrolled .btn1{
+	border: 1px solid #00bcd4;
+	color: white;
+	background-color: #00bcd4;
+}
+
+.navbar.scrolled .btn2{
+	border: 1px solid #00bcd4;
+	margin-right: 10px;
+}
+
+/* Homepage Searchbar Configration */
+ .srch{
+ 	width: 40%;
+ 	min-width: auto;
+ 	height: 49px;
+ 	background-color: transparent;
+ 	border: 1px solid #fff;
+ 	color: white;
+ 	padding: 0px 15px;
+ 	outline: none;
+ 	font-size: 14px;
+ 	letter-spacing: 0.5px;
+ 	margin: 3% 2% 3% 2%;
+
+ }
+
+
+.btnsrch{
+    display: inline-block;
+    height: 50px;
+    min-width: auto;
+    line-height: 50px;
+    padding: 0px 10px;
+    border: none;
+    background-color: #00bcd4;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    transition: all 0.5s;
+}
+
+.h4styl{
+	font-size: 18px;
+    color: #1e1e1e;
+    letter-spacing: 0.5px;
+    font-weight: 700;
+}
+
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 0rem!important;
+    background-color: #e9ecef;
+    border-radius: .3rem;
+}
+
+/* Preloader Css */
+
+#loading
+{
+
+background: rgb(49 46 51)
+url(25.gif) no-repeat center;
+position: fixed;
+z-index: 999999;
+}
